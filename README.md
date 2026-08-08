@@ -68,7 +68,7 @@ customer-churn-retention-analytics/
     Tech Stack
 Programming
  - Python
-Data Analysis
+*Data Analysis*
 - Pandas
 - NumPy
 Machine Learning
